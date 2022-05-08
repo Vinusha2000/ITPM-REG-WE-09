@@ -1,0 +1,70 @@
+{
+  "name": "sales-management",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-chart-core": "^2.7.6",
+    "@devexpress/dx-react-chart": "^2.7.6",
+    "@devexpress/dx-react-chart-bootstrap4": "^2.7.6",
+    "@devexpress/dx-react-chart-material-ui": "^2.7.6",
+    "@devexpress/dx-react-core": "^2.7.6",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@mui/material": "^5.0.0",
+    "@mui/x-date-pickers": "^5.0.0-alpha.2",
+    "@mui/x-date-pickers-pro": "^5.0.0-alpha.2",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.0",
+    "bootstrapt": "^1.1.1",
+    "chart.js": "^3.5.1",
+    "date-fns": "^2.28.0",
+    "joi": "^17.4.2",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.20",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-bar-chart": "^0.1.2",
+    "react-bootstrap": "^2.0.0-beta.6",
+    "react-chartjs-2": "^3.0.5",
+    "react-charts": "^2.0.0-beta.7",
+    "react-date-range": "^1.4.0",
+    "react-datepicker": "^4.2.1",
+    "react-dom": "^17.0.2",
+    "react-horizontal-scrolling-menu": "^2.7.1",
+    "react-modal": "^3.14.4",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^1.1.5",
+    "react-to-print": "^2.13.0",
+    "react-toastify": "^8.2.0",
+    "reactstrap": "^8.10.0",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
